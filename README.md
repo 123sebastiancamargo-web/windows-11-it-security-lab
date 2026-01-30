@@ -101,6 +101,10 @@ Backups protect against accidental deletion and ransomware incidents.
 **Diagnosis:** Standard user account lacks administrator privileges  
 **Resolution:** Installed software using Local-IT-Admin account  
 **Status:** Resolved  
+<img width="879" height="954" alt="Screenshot 2026-01-29 230521" src="https://github.com/user-attachments/assets/bec39170-eb27-4960-8330-6efae421978c" />
+<img width="1082" height="768" alt="Screenshot 2026-01-29 225207" src="https://github.com/user-attachments/assets/01b11ba1-eaab-48ac-a42d-2da714c96341" />
+<img width="1069" height="713" alt="Screenshot 2026-01-29 225754" src="https://github.com/user-attachments/assets/fa1699bf-a427-4268-bd55-9291bf8ab7f3" />
+<img width="949" height="682" alt="Screenshot 2026-01-29 225805" src="https://github.com/user-attachments/assets/97a02cfb-ccef-40ba-8e82-459deadc65b0" />
 
 ---
 
@@ -110,6 +114,7 @@ Backups protect against accidental deletion and ransomware incidents.
 **Diagnosis:** Windows Firewall inbound rule restriction  
 **Resolution:** Created allow rule for trusted application  
 **Status:** Resolved  
+
 
 ---
 
