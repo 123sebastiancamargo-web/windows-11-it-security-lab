@@ -95,7 +95,7 @@ Backups protect against accidental deletion and ransomware incidents.
 
 ## 🎫 Help Desk Ticket 
 
-### Ticket 001 – Software Installation Permission Issue
+### Ticket 001 – Software Restriction Policies
 **User:** user2  
 **Issue:** Unable to install software  
 **Diagnosis:** Standard user account lacks administrator privileges  
