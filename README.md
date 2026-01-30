@@ -93,7 +93,7 @@ Backups protect against accidental deletion and ransomware incidents.
 
 ---
 
-## 🎫 Help Desk Ticket Simulation
+## 🎫 Help Desk Ticket 
 
 ### Ticket 001 – Software Installation Permission Issue
 **User:** user2  
